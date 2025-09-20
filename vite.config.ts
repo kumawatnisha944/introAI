@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-   base: '/introAI/',   // 👈 add this line (repo name)
+   base: './',   // 👈 add this line (repo name)
 });
